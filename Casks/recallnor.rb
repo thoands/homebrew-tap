@@ -12,7 +12,7 @@ cask "recallnor" do
     regex(/(\d+(?:\.\d+)+)/i)
   end
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Recallnor.app"
 
