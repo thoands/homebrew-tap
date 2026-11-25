@@ -1,6 +1,6 @@
 cask "storenor" do
-  version "1.1.0"
-  sha256 "1012434a0261b7a766545ae9ea63562299c6fd0b0fa4a21f1e05c3ee2f3f36f0"
+  version "1.1.1"
+  sha256 "6fc1c351b9a4a77261d44558beb5e2b41debc7078a7b26f2df3fe99b5c9b76d3"
 
   url "https://storenor.de/download/Storenor-#{version}.dmg"
   name "Storenor"
